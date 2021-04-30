@@ -1,5 +1,5 @@
 # MEET
-#### *Message Exchange is Easier Today!*
+#### *"Message Exchange is Easier Today!"*
 #### Authors
 Denis Roenko, Vyacheslav Chernyshev, Olesia Perestoronina
 <hr>
@@ -15,3 +15,7 @@ MEET is a tool for communicating with friends. In this service, you can:
 
 
 All this is possible on MEET!
+
+
+
+![](logo.png) 
