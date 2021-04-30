@@ -1,2 +1,7 @@
-# Homework #1
-### Done by Olesia Perestoronina, N41513c
+# MEET
+#### Message Exchange is Easier Today!
+<hr>
+#### Authors
+Denis Roenko, Vyacheslav Chernyshev, Olesia Perestoronina
+
+
